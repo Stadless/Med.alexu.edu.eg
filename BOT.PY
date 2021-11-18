@@ -87,7 +87,7 @@ def code_joo(userQ, password):
     dat = ree['data']
     t = time.localtime()
     current_time = time.strftime('%H:%E:%RO', t)
-    joo3 = f""" I do it beb
+    joo3 = f""" New Hunt
 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 
 Name : {name} 
 User : {userQ}
