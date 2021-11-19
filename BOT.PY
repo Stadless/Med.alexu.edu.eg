@@ -98,7 +98,7 @@ Date : {dat}
 acc has been hunted in : {current_time}
 Hunt Numb [{zz}]
 ◆━━━━━━◆❃◆━━━━━━◆
-Creat by : @TarekYahia1911 """
+Created by : @TarekYahia1911 """
     tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text=\n {joo3} \n"
     i = requests.post(tlg)
 
