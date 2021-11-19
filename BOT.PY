@@ -90,11 +90,11 @@ def code_joo(userQ, password):
     joo3 = f""" New Insta Hunt
 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 𖧷 ⌒ 
 Name : {name} 
-User : {userQ}
+Username : {userQ}
 password : {password}
 Followers : {followes}
 Following : {following}
-Date : {dat}
+Date created : {dat}
 acc has been hunted in : {current_time}
 Hunt Numb [{zz}]
 ◆━━━━━━◆❃◆━━━━━━◆
